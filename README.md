@@ -20,10 +20,9 @@ Soy una desarrolladora enfocada en el ecosistema de **React** y apasionada por t
 
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silenacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenacruz&layout=compact&theme=radical&hide=php,html" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=silenacruz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silenacruz&layout=compact&theme=radical&hide=php,html" />
 </p>
-
 ---
 
 ### 🚀 Proyectos Destacados
