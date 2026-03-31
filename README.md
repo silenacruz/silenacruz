@@ -35,6 +35,14 @@ Soy una desarrolladora enfocada en el ecosistema de **React** y apasionada por t
      directamente desde la interfaz.
    - *Demo:* https://silenacruz.github.io/gc-peluqueria/
 
+
+2. **[Staff Manager App | Sistema de Gestión de Personal]**
+   - *¿Qué es?* Una solución integral para la gestión administrativa de equipos. Permite el control centralizado de empleados (altas, bajas y perfiles) mediante una interfaz
+     intuitiva y eficiente.
+   - *Reto técnico:* Desarrollo de un backend robusto con Node.js y Express siguiendo el patrón MVC. El desafío principal fue garantizar la persistencia de datos y la
+     seguridad de la información mediante la integración de MongoDB y el manejo estricto de variables de entorno para una configuración segura en producción.
+   - *Demo:* https://github.com/silenacruz/staff-manager-app
+
 ---
 
 ### 📫 Hablemos
